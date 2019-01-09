@@ -1,0 +1,5 @@
+lion: 사자
+tree: 나무
+apple: 사과
+hope: 희망
+sense: 감각
