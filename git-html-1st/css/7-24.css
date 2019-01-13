@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  src: url("../fonts/BMJUA_otf.otf");
+  font-family: "BMJUA";
+}
+
+body {font-family: "BMJUA"; text-align: center;  color: #58595B; background-color: #F0E8D9;}
+
+.title {font-size: 64px; margin-top:75px; margin-bottom:30px}
+.content {font-size:32px; margin-bottom:75px;}
+.imagepara {background-color:white; border-radius: 10px;  width:300px; margin: auto; margin-bottom: 50px; overflow: hidden;}
+.imagepara img {width:300px; height:200px;}
+.sub-title {font-size:32px;}
+.sub-content {font-size: 16px; margin-top:20px; margin-bottom:16px;}
+.pad {padding: 20px;}
+a {text-decoration: none; color: #0000EE;}

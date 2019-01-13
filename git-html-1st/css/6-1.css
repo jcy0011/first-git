@@ -1,0 +1,7 @@
+body {text-align: center;}
+.logo > img {width: 165px; height: 58px; margin-top:80px;}
+a {text-decoration: none;}
+.menu{ margin-top: 60px; margin-bottom:60px;}
+.menu a {font-size: 16px; font-family:'Helvetica'; color: #58595B; margin-left: 0px; margin-right:10px;}
+.menu > span {font-weight: bold;}
+.pic > img {width:90%;}

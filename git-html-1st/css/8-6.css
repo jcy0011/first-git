@@ -1,0 +1,2 @@
+h2 {font-size:30px; padding: 20px;background: #FA987D;}
+.container > div:nth-child(even) h2 {background: #72CCA7;}
